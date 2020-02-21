@@ -10,6 +10,8 @@ namespace szallitmanyozas
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("KI EZ A KÚTJA");
+            Console.ReadKey();
         }
     }
 }
