@@ -10,9 +10,8 @@ namespace szallitmanyozas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("KI EZ A KÚTJA");
-            Console.ReadKey();
-            Console.WriteLine("AD");
+            string[] rendszamok = {"ABC-123","ABC-124", };
+            List<string> kintirendsz = new List<string>();
         }
     }
 }
