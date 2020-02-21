@@ -12,6 +12,7 @@ namespace szallitmanyozas
         {
             Console.WriteLine("KI EZ A KÚTJA");
             Console.ReadKey();
+            Console.WriteLine("AD");
         }
     }
 }
